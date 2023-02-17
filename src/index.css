@@ -1,0 +1,8 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
+.active{
+    color: black;
+    font-weight: bold;
+}
